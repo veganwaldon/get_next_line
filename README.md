@@ -4,6 +4,8 @@
 # Project goals
 - learn new concept: static variables
 
-# How to compile
-- make
-- cc -Wall -Wextra -Werror -D BUFFER_SIZE=42 <files>.c
+# Build
+$ git clone ...
+$ cd repo/src/
+$ make
+$ cc -Wall -Wextra -Werror -D BUFFER_SIZE=42 <files>.c
