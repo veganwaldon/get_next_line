@@ -1,3 +1,5 @@
+*21School (Ecole42) Project*
+
 # Get_next_line
 This project is about programming a function that returns a line read from a file descriptor.
 
