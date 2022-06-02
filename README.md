@@ -6,7 +6,7 @@ Learn new concept: *static variables*
 
 ## Build
     
-    # to build
+    
     $ git clone ...
     $ cd repo/src/
     $ make
