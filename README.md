@@ -1,12 +1,13 @@
-*21School (Ecole42) Project*
+*21school (Ecole42) Project*
 
-# get_next_line
-This project is about programming a function that returns a line read from a file descriptor.
+# Get_next_line
+This project is about programming a function that returns a line read from a file descriptor.  
+Subject can be found [here](https://github.com/veganwaldon/get_next_line/blob/main/gnl.pdf)
 
-## project goals
+## Project goals
 Learn new concept: *static variables*
 
-## build
+## To compile and run
     
     
     $ git clone ...
